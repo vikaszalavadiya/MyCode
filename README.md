@@ -1,3 +1,3 @@
 # mycode
-date:18-02-22 \n
+date:18-02-22  
 this is sample code repo
